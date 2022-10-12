@@ -3,6 +3,5 @@ University of Waikako Environment Knowledge Analysis "WEKA" Software for Data Mi
 
 <hr/>
 To <em>clone</em> the repository locally:
-use git bash or other cli and run the following code:
 
 <code>git clone https://github.com/Kmohamedalie/Weka_Datasets.git</code>
